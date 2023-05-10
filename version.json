@@ -2,10 +2,10 @@
     "versions": [
     {
         "1.12.2": {
-            "url": ""
+            "url": "https://raw.githubusercontent.com/sanitardev/myownminecraftlauncher/main/1.12.2.zip"
         },
         "1.13.2": {
-            "url": ""
+            "url": "https://raw.githubusercontent.com/sanitardev/myownminecraftlauncher/main/1.13.2.zip"
         }
     }
     ]
